@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CocoaDebug (0.1.3)
+  - Sourcery (0.15.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CocoaDebug
+  - Sourcery
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CocoaDebug
+    - Sourcery
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CocoaDebug: 776d21a594a7af45f54f9532ff325fcfd9d4d0fd
+  Sourcery: 5895672cae353cdbfa95f3f4aaeb75a664d76f6a
+
+PODFILE CHECKSUM: 6c173be320db3dbebd785b1b7df7c3bd0ef1d033
+
+COCOAPODS: 1.5.3
